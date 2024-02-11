@@ -6,10 +6,10 @@ import subprocess
 import threading
 import requests
 from remain_up import remain_up
-
+6717458340:AAF5aiymAyYlxVhO4Hu_quKtRyMVE1asx6w
 remain_up()
 
-bot = telebot.TeleBot("SET TOKEN")
+6717458340:AAF5aiymAyYlxVhO4Hu_quKtRyMVE1asx6w
 
 def run_php():
   subprocess.call('php -S 0.0.0.0:5000', shell=True)
